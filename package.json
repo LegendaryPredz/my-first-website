@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+
+  },
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
